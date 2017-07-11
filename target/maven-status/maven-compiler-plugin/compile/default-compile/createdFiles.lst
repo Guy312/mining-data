@@ -1,0 +1,3 @@
+com\publish\Publish.class
+com\publish\PostgresConnection.class
+com\publish\Record.class
